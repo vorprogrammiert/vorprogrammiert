@@ -8,7 +8,7 @@ Beyond AI, I'm also starting as **solo game developer**, handling everything fro
 
 ### My YouTube Channel: Learning in Public
 
-I believe to share my learning process, motivates me to go on. My YouTube channel is where I'll document these process. Expect to see:
+I believe to share my learning process will motivate me to go on. My YouTube channel is where I'll document these process. Expect to see:
 - **AI Experiments:** Practical projects and explorations with the latest tools.
 - **Solo Devlogs:** Watch me build games from scratch, including all the creative steps.
 - **FOSS & Linux:** A focus on doing high-quality work with open-source tools on a Linux environment.
