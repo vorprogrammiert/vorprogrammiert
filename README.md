@@ -9,6 +9,7 @@ Beyond AI, I'm also starting as **solo game developer**, handling everything fro
 ### My YouTube Channel: Learning in Public
 
 I believe to share my learning process will motivate me to go on. My YouTube channel is where I'll document these process.
+
 No videos yet, (have to manage the "Impressumspflicht",) but I will note it here if that changes.
 
 **[vorprogrammiert](https://www.youtube.com/@vorprogrammiert)**
