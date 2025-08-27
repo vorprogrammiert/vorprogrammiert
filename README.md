@@ -1,8 +1,6 @@
 # Hi there, I'm Sebastian
 
-I'm a **Chemical Laboratory Technician** with a passion for coding. My journey into tech started with data analysis and has evolved into a deep fascination with **Artificial Intelligence**.
-
-Beyond AI, I'm also starting as **solo game developer**, handling everything from programming to creating the graphics, animations, and music.
+I'm a **Chemical Laboratory Technician** with a passion for coding.
 
 ---
 
