@@ -18,7 +18,7 @@ No videos yet, (have to manage the "Impressumspflicht",) but I will note it here
 
 ### My Philosophy & Tech Stack
 
-I prefere **Free and Open-Source Software (FOSS)** and strive to use them for almost everything. The one notable exception is [REAPER](https://www.reaper.fm/). As a Digital Audio Workstation, its incredible power, flexibility, and developer-friendly pricing have earned it a permanent place in my creative toolkit.
+I prefere **Free and Open-Source Software (FOSS)** and strive to use them for almost everything. The one notable exception is [REAPER](https://www.reaper.fm/). As a Digital Audio Workstation, its flexibility, developer-friendly pricing, and scripting capabilities have earned it a permanent place in my creative toolkit.
 
 - **OS:** `Linux (Debian + KDE Plasma)`
 - **Core Interests:** `AI`, `Solo Game Development`, `Data Science`, `Multimedia Creation`
