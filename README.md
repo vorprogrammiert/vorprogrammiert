@@ -1,7 +1,7 @@
 # Hi there, I'm Sebastian
 
 I'm a **Chemical Laboratory Technician** with a passion for coding.
-
+<!--- 
 ---
 
 ### My YouTube Channel: Learning in Public
@@ -24,7 +24,7 @@ I prefere **Free and Open-Source Software (FOSS)** and strive to use them for al
 - **Development & Editing:** `Zed`, `Jupyter Lab`
 
 ---
-<!--- 
+
 ### How to Reach Me
 
 - **[Email Address]**
